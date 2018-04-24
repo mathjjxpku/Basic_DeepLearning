@@ -7,7 +7,7 @@ Created on Thu Mar 15 19:22:24 2018
 """
 
 """
-Autoencoder编码器
+Autoencoder编码
 """
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
