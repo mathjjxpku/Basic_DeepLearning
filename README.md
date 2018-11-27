@@ -18,7 +18,7 @@
 【数据集】
 1. 自行从如下链接下载数据集，并阅读数据的说明文件:http://www.robots.ox.ac.uk/~vgg/data/flowers/17/
 
-## 第二次作业
+## 第三次作业
 【基本要求】
 1. 使用神经网络实现句子的情感标签分类（5分类），数据集为Stanford Sentiment Treebank。
 2. 自行下载数据集，推荐使用TF完成作业
